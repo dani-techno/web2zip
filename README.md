@@ -58,7 +58,6 @@ Web2Zip adalah aplikasi web sederhana yang memungkinkan pengguna untuk mengonver
 - **Nama:** Dani Technology (Full Stack Engineer)  
 - **WhatsApp:** +62 838-3499-4479 / +62 823-2066-7363  
 - **Email:** [dani.technology.id@gmail.com](mailto:dani.technology.id@gmail.com)  
-- **GitHub:** [https://github.com/dani-techno](https://github.com/dani-techno)  
 
 ---
 
