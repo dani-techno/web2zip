@@ -1,0 +1,10 @@
+web2zip/
+├── public/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+├── routes/
+│   └── download.js
+├── app.js
+├── package.json
+└── .gitignore
